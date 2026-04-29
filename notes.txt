@@ -1,1 +1,2 @@
 This file is used to compare staged and unstaged changes.
+It is also used to test committing and pushing to github.
