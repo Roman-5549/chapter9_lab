@@ -12,4 +12,4 @@ To practice shell commands, Git initialization, status checking, staging, and co
 
 ## Reflection
 
-Git helps track changes without creating many duplicate filenames.
+Git helps saving your code on a remote repository to guarentee you don't lose it if your PC crashes.
