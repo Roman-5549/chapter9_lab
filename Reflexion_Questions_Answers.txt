@@ -1,0 +1,15 @@
+1. Because having many duplicate files with different names creates a very disorganized workspace and less storage for nothing.
+2. It allows you to know the current state of the git status of the git repository which helps you knowing what do to next: 
+"Do I need to stage a file, or can I just commit it right now ?"
+3. It tells you which files can be committed.
+4. An untracked file is a file that has never been committed before meanwhile a modified file has been committed before,
+but has also been changed since the last commit.
+5. Because Git needs to record your identity before you can commit, so that it can know who committed.
+6. Git init creates a Git repository. It allows you to turn a normal directory into a git repository, which allows you enter
+git commands inside of it.
+7. It allows you and the other developpers to know what changed in those commits. For example, which file was added/modified
+and what changed in those files.
+8. Pretty much everything was easy in this chapter besides some commands that I didn't know like "git log".
+9. Nothing.
+10. It shows you which lines have been modified/ added in a file thanks to a green/ blue line next to the line numbers in the editor.
+It also has a source control panel.
