@@ -1,6 +1,7 @@
-- pwd: Displays the current working repository.
-- ls: Displays the list of the files and folders in the current repository.
-- git init: Initializes a git repoistory in the current repository.
+- pwd: Displays the current working directory.
+- ls: Displays the list of the files and folders in the current directory.
+- git init: Initializes a git repository in the current directory.
 - git status: Displays the current state of the git repository.
 - git add: Adds the file in the list of files to be committed.
 - git commit: Records the staged changes into the git directory's history.
+- cd: moves to a directory of your choice.
